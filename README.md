@@ -18,3 +18,9 @@ As part of a team of 6 developers, we efficiently managed tasks by breaking down
 
 - **Front-end:** Built with React and styled using CSS.
 - **Back-end API:** Developed using PHP, Laravel, Sequel Ace, and Postman.
+
+### Links: 
+- **Front-end code:** https://github.com/iO-Academy/23-sept-sarcasticfringeheads-bookswap-fe
+- **Back-end code:** https://github.com/iO-Academy/23-sept-sarcasticfringeheads-bookswap-api
+- **Live:** https://bookswap.robsheldrick.dev.io-academy.uk/
+
